@@ -1,4 +1,4 @@
 # Apnacollage-demo
 This is my  first git repositry 
 <br>
-Author-Shradaa kapoor
+Author-Shradaa kapoor (Apna collage)
